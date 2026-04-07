@@ -129,9 +129,3 @@ cd ~/robot_ws
 source devel/setup.bash
 rosrun teleop_ui robot_teleop_ui.py
 ```
-
-## 🙌 Contributors
-
-- [@Ujjwal030406](https://github.com/Ujjwal030406)  
-- [@Meh-mehul](https://github.com/Meh-mehul) 
-- [Vasu-Baliyan]
